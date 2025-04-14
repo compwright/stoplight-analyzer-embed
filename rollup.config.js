@@ -18,7 +18,7 @@ export default {
 				customElement: true,
 			},
 		}),
-		resolve({ browser: true, dedupe: ['svelte'] }),
+		resolve({ browser: true }),
 		terser()
 	],
 }

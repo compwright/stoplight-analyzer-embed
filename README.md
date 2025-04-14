@@ -18,7 +18,7 @@ $ make clean build
 ## Embed Code
 
 ```html
-<script defer src="stoplight-analyzer.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/gh/compwright/stoplight-analyzer-embed@refs/heads/master/build/stoplight-analyzer.min.js"></script>
 <stoplight-analyzer></stoplight-analyzer>
 ```
 

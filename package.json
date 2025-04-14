@@ -6,8 +6,7 @@
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^5.3.5",
-    "svelte": "^5.26.3",
-    "sveltestrap": "^5.11.3"
+    "svelte": "^5.26.3"
   },
   "devDependencies": {
     "@rollup/plugin-node-resolve": "^16.0.1",
