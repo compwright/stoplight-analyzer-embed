@@ -1,3 +1,5 @@
+<svelte:options customElement="stoplight-analyzer" />
+
 <script>
 	const minLoanAmount = 10000;
 
