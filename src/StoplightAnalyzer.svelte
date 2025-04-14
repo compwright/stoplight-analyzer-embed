@@ -59,6 +59,7 @@
 
 <svelte:head>
 	<title>Stoplight Analyzer</title>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800,900%7C'Poppins':400,500,600,700,800,900&amp;display=swap" media="all">
 </svelte:head>
 
 <div class="container mt-3 mb-5">
