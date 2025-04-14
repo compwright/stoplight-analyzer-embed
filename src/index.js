@@ -1,8 +1,8 @@
 import svelteRetag from 'svelte-retag';
-import Embed from './Embed.svelte';
+import StoplightAnalyzer from './StoplightAnalyzer.svelte';
 
 svelteRetag({
-	component: Embed,
-	tagname: 'stoplight-analyzer-widget',
+	component: StoplightAnalyzer,
+	tagname: 'stoplight-analyzer',
 	shadow: false // Use the light DOM
 });
