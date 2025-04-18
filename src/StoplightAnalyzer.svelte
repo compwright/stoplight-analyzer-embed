@@ -135,7 +135,7 @@
 						<label for="purchaseInput">Purchase Price</label>
 					</div>
 				</div>
-				{#if totalLoanAmount > minLoanAmount && rehabAmount > 0 && purchaseAmount > minLoanAmount}
+				{#if asIsValue > minLoanAmount && rehabAmount > 0 && totalLoanAmount > minLoanAmount && purchaseAmount > minLoanAmount}
 					{#if depth <= 80}
 						<div class="alert alert-success mt-4">
 							<b>Fully Fundable</b>&mdash;we can fund the entire purchase and rehab cost in draws:
